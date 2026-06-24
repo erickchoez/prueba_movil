@@ -1,4 +1,4 @@
-# Yiga Móvil - Prueba Técnica
+# Prueba Técnica Móvil
 
 Aplicación móvil para que un técnico visualice sus órdenes de trabajo.
 
