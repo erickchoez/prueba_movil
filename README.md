@@ -35,7 +35,7 @@ Aplicación móvil para que un técnico visualice sus órdenes de trabajo.
 
 ## Qué mejoraría con más tiempo
 
-- **Arquitectura**: Implementar una arquitectura más estructurada como MVVM o Clean Architecture para separar responsabilidades y hacer el código más mantenible.
+- **Arquitectura**: Implementar una arquitectura más estructurada como Clean Architecture para separar responsabilidades y hacer el código más mantenible.
 - **Gestión de estado**: Usar un paquete como Provider o Bloc para manejar el estado de forma más eficiente.
 - **API real**: Conectar la aplicación a una API REST real para obtener y enviar datos de órdenes.
 - **Cámara**: Implementar la funcionalidad real de tomar fotos y guardarlas (usando paquetes como `image_picker`).
