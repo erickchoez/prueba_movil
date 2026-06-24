@@ -1,6 +1,11 @@
 # Yiga Móvil - Prueba Técnica
 
 Aplicación móvil para que un técnico visualice sus órdenes de trabajo.
+<img width="312" height="689" alt="image" src="https://github.com/user-attachments/assets/59b9dc22-b2aa-48d8-9d47-b548aa0507c3" />
+<img width="317" height="691" alt="image" src="https://github.com/user-attachments/assets/92094b25-25c0-44e4-9cf4-3a5f1a77400c" />
+<img width="315" height="681" alt="image" src="https://github.com/user-attachments/assets/eed4d672-2615-4c96-999b-8ae52e825a5f" />
+<img width="316" height="684" alt="image" src="https://github.com/user-attachments/assets/234472e3-b78c-4ae6-83fd-d322263b9d97" />
+<img width="315" height="682" alt="image" src="https://github.com/user-attachments/assets/85b82c46-5717-4231-8aac-b33dcde599bc" />
 
 ## Tecnología usada
 
